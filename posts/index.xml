@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Oct 2021 21:40:33 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 07 Oct 2021 21:40:33 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hugo 打出的标语 &amp;ndash; “The world’s fastest framework for building websites”。Hugo 依靠Go语言进行开发，号称世界上最快的构建网站工具，到底有多快？ 根据相关博主提供的数据，他200篇左右的博文用Hexo 需要10分钟去生成静态网页，而Hugo 只需要10秒。 就我个人的体验来说，Hugo确实大大加快了网页生成的速度，平常增加一篇博文然后再生成渲染需要4秒左右，而Hugo基本上是1秒内完成。 正是依赖于Hugo 快速生成的特点，调试方便成了Hugo的第二大特点。 基本上我在源文件处修改的内容可以实时地显示在网页上，而不用再次敲代码生成再预览，这对于博主来说简直就是一个福音。</description>
+    </item>
+    
+  </channel>
+</rss>
